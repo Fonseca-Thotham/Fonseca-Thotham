@@ -13,6 +13,7 @@ Iniciei meus estudos em programação no começo de 2022 e desde então, procuro
 <a href="https://github.com/Fonseca-Thotham/convoychat">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Fonseca-Thotham&layout=compact&langs_count=8&card_width=320&hide_progress=true&theme=merko" />
 </a>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Fonseca-Thotham&theme=merko" alt="Fonseca-Thotham" /></p>
 
 
 <h2 align="center"> Contatos </h2> 
@@ -22,3 +23,4 @@ Iniciei meus estudos em programação no começo de 2022 e desde então, procuro
 <a href = "mailto:matheusfonsecade@hotmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/fonsecamatheus-ti" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>
+
