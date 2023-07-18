@@ -1,4 +1,4 @@
-<h1 align="center"> Oi, eu sou o Matheus Fonseca! </h1>
+<h1 align="center"> Matheus Fonseca </h1>
 
 Full Stack Junior em preparação, apaixonado por Psicologia e ainda mais pelo Clube Atlético Mineiro.
 Iniciei meus estudos em programação no começo de 2022 e desde então, procuro desenvolver mais meus conhecimentos na área.
@@ -14,7 +14,8 @@ Iniciei meus estudos em programação no começo de 2022 e desde então, procuro
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Fonseca-Thotham&layout=compact&langs_count=8&card_width=320&hide_progress=true&theme=merko" />
 </a>
 
-Contatos
+
+<h2 align="center"> Contatos </h2> 
 
 <div>
 <a href="https://instagram.com/fonseca.mfs" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
