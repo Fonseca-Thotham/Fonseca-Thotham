@@ -1,6 +1,6 @@
 <h1 align="center"> Matheus Fonseca </h1>
 
-<h4 align="center">Full Stack Junior em preparação, apaixonado por Psicologia e ainda mais pelo Clube Atlético Mineiro.
+<h4 align="center">Graduando em Cienias da Computação, apaixonado por Psicologia e ainda mais pelo Clube Atlético Mineiro.
 Desenvolvedor proativo, comunicativo, interessado, apaixonado por tecnologia e design UX, focado em toda a experiência do usuário.<h4/>
 <h3 align="center"> Ferramentas </h3>
 <div align="center" <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg"  width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" width="40" height="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" height="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width="40" height="40" />
