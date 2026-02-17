@@ -8,11 +8,7 @@ Desenvolvedor proativo, comunicativo, interessado, apaixonado por tecnologia e d
 <div align="center"<a href="https://github.com/Fonseca-Thotham/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Fonseca-Thotham&show_icons=true&theme=merko" />
 </a>
-<br><br/> 
-<a href="https://github.com/Fonseca-Thotham/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Fonseca-Thotham&layout=compact&langs_count=8&card_width=320&hide_progress=true&theme=merko" />
-</a>
-<br><br/> 
+<br><br/>  
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Fonseca-Thotham&theme=merko" alt="Fonseca-Thotham" /></p>
 <br><br/> 
 <h3 align="center"> Contatos </h3> 
