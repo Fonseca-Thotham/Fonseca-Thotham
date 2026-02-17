@@ -4,9 +4,7 @@
 Desenvolvedor proativo, comunicativo, interessado, apaixonado por tecnologia e design UX, focado em toda a experiência do usuário.<h4/>
 <h3 align="center"> Ferramentas </h3>
 <div align="center" <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg"  width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" width="40" height="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" height="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width="40" height="40" />
-<br><br/>          
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Fonseca-Thotham&theme=merko" alt="Fonseca-Thotham" /></p>
-<br><br/> 
+<br><br/>
 <h3 align="center"> Contatos </h3> 
 <div>
 <a href="https://instagram.com/fonseca.mfs" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
